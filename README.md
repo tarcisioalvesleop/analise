@@ -17,7 +17,7 @@ clientes que atrasaram o pagamento em mais de 20 dias. Após a identificação, 
 # Como executar o projeto
 
 ## Pré-requisitos
-Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: [python](https://www.python.org/), [jupyter](https://jupyter.org/) e um editor de para trabalhar com o código como [VS Code](https://code.visualstudio.com/).
+Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: [python](https://www.python.org/), [jupyter](https://jupyter.org/), [git](https://git-scm.com/) e um editor de para trabalhar com o código como [VS Code](https://code.visualstudio.com/).
 
 ``` bash
 # Clone esse repositório numa pasta
