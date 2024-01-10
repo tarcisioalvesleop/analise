@@ -1,5 +1,5 @@
 # Analisando dados com python
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/tarcisioalvesleop/power-up/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/tarcisioalvesleop/analise/blob/main/LICENSE) 
 
 # Sobre o projeto
 
